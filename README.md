@@ -1,5 +1,5 @@
 # AMC Internal Paper review study
-- **Description** : Internal deep learning paper study @Asan Institute for Life Science
+- **Description** : Internal deep learning paper study @Asan Medical Center MI2RL
 
 - **Members (Github)** : Jongjun Won, [Chaewon Kim](https://github.com/cwkim0120), [Youngjae Kim](https://github.com/provbs)
 <br>
